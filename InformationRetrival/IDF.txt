@@ -1,0 +1,6 @@
+              DF     IDF    
+akram         3      0.82   
+for           1      1.3    
+you           1      1.3    
+system        5      0.6    
+information   3      0.82   

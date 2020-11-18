@@ -1,0 +1,4 @@
+system -->         Doc1 :  1 2 ; Doc2 :  1 2 ; Doc3 :  1 4 5 ; Doc4 :  1 ; Doc5 :  1
+akram -->          Doc1 :  3 4 ; Doc2 :  3 ; Doc3 :  7
+you -->            Doc3 :  3
+information -->    Doc3 :  6 ; Doc4 :  2 ; Doc5 :  2
